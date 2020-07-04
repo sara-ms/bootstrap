@@ -1,0 +1,93 @@
+.img-profile {
+    width: 328px;
+    margin-left: -07px;
+}
+
+.d-block {
+
+    padding: -0.5rem !important;
+}
+
+.demo {
+    list-style-type: none;
+ 
+  }
+  .demoLinks{
+    list-style-type: none;
+ 
+  }
+.container-fluid{
+background-image: url(./image/portfolio.jpg)
+}
+
+.float-left {
+    height: 104px !important;
+    width: 84px !important;
+}
+
+
+
+
+.col-lg-3 {
+
+    background-color: #f8f9fa;
+}
+
+.font-weight-normal {
+    color: #212529 !important;
+}
+
+.text-primary {
+    color: #b3d7ff !important;
+}
+
+.text-left {
+    color: #212529 !important;
+}
+
+.subheading mb-3 {
+    color: #212529 !important;
+
+}
+
+.d-block {
+    margin-top: -9px !important;
+    margin-left: -1.5px !important;
+    width: 962px;
+}
+
+.fa {
+    font-size: -webkit-xxx-large !important;
+}
+
+.card {
+    margin-left: -4px !important;
+    margin-top: -10px !important;
+
+}
+
+
+
+
+.mb-0 {
+    margin-bottom: 26px !important;
+
+}
+
+.card-body {
+    margin-top: 5px !important;
+    margin-left: 2px !important;
+    width: 888px !important;
+}
+
+.font-weight-normal {
+    margin-top: 18px !important;
+}
+
+.font-formation {
+    width: 837px !important;
+}
+
+.w-100 {
+    width: 100% !important;
+}
